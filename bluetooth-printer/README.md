@@ -1,6 +1,6 @@
 # Web Bluetooth Printer
 
-Available at https://webbluetoothcg.github.io/demos/bluetooth-printer/
+Available at https://claudesoft.github.io/demos/bluetooth-printer/
 
 <img src="https://raw.githubusercontent.com/webbluetoothcg/demos/gh-pages/bluetooth-printer/printer.jpg">
 
